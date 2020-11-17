@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c11e19-e214-4169-a99c-e40b0ca07ff1" name="Default Changelist" comment="" />
+    <list default="true" id="b5c11e19-e214-4169-a99c-e40b0ca07ff1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kLsuGItfvxgTB6tbnflBH8unFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605491426692</updated>
       <workItem from="1605491427796" duration="238000" />
+      <workItem from="1605575342884" duration="356000" />
     </task>
     <servers />
   </component>
@@ -35,9 +42,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="205" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605491434179">
+    <state x="275" y="205" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605575583607">
       <screen x="0" y="23" width="1280" height="747" />
     </state>
-    <state x="275" y="205" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.747@0.23.1280.747" timestamp="1605491434179" />
+    <state x="275" y="205" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.747@0.23.1280.747" timestamp="1605575583607" />
   </component>
 </project>
